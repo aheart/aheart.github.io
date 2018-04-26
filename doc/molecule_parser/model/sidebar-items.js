@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["add_atoms","Increase the index by a number add_atoms((H, 2), 1) -> (H, 3)"],["mul_atoms","Multiply the index by a number mul_atoms((H, 2), 2) -> (H, 4)"],["mul_molecule","Multiply the indices of all atoms in a vector of Atoms (Molecule)"]],"type":[["Atom",""],["Molecule",""]]});
